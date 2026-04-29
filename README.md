@@ -23,3 +23,5 @@ NVIDIA Warp - https://github.com/nvidia/warp
 # Videos and References
 
 https://www.nvidia.com/en-us/on-demand/session/gtc26-dlit81837/
+
+https://www.youtube.com/watch?v=jDOekvNddFo&t=1233s
