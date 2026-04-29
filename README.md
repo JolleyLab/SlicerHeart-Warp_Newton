@@ -19,3 +19,7 @@ SlicerTissue - https://github.com/pieper/SlicerTissue
 NVIDIA Newton - https://github.com/newton-physics/newton
 
 NVIDIA Warp - https://github.com/nvidia/warp
+
+# Videos and References
+
+https://www.nvidia.com/en-us/on-demand/session/gtc26-dlit81837/
