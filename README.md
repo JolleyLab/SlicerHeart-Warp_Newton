@@ -1,5 +1,5 @@
 # SlicerHeart-Warp_Newton
-Exploration of Use of Newton within SlicerHeart/Slicer environment
+Exploration of Use of Warp/Newton within SlicerHeart/Slicer environment
 
 
 # Use Case - Self-expanding Devices
